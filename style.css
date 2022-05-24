@@ -195,12 +195,13 @@ footer{
     flex-direction: column;
     justify-content: initial;
     align-items: center;
-
+    padding-top: 80px;
     height: fit-content;
   }
 
   .waterMain h2 {
     font-size: 2rem;
+    margin: 60px;
   }
 
   .textMain {
